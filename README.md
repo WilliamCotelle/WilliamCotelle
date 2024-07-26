@@ -1,9 +1,9 @@
 # 🌟 Développeur Web Full-Stack 🌟
 
--👋 Bonjour, je suis @WilliamCotelle, développeur web français 🇫🇷
--🌱 Actuellement, je me spécialise en développement web avec React et TypeScript, tout en approfondissant mes compétences en JavaScript et Node.js.
--💞️ Je suis à la recherche d'opportunités pour contribuer à des projets de développement web créatifs et stimulants.
--📫 Vous pouvez me contacter à william.cotelle@outlook.fr
+👋 Bonjour, je suis @WilliamCotelle, développeur web français 🇫🇷  
+🌱 Actuellement, je me spécialise en développement web avec React et TypeScript, tout en approfondissant mes compétences en JavaScript et Node.js.  
+💞️ Je suis à la recherche d'opportunités pour contribuer à des projets de développement web créatifs et stimulants.  
+📫 Vous pouvez me contacter à william.cotelle@outlook.fr  
 
 ## 📋 Expérience Professionnelle
 
