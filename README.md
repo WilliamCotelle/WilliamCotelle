@@ -19,11 +19,6 @@
   - Gestion des stocks, mise en place des produits et formation des nouveaux employés.
   - Développement de compétences en vente et communication.
 
-### Ouvrier Agricole - SES Vanderhave (2018 - 2021)
-- **Responsabilités:**
-  - Réalisation de diverses tâches en lien avec la recherche de variétés de betteraves sucrières.
-  - Travail d'équipe et adaptation aux différents besoins du secteur agricole.
-
 ## 🔧 Compétences
 
 ### Front-End:
