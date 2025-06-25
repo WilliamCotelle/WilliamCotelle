@@ -1,58 +1,65 @@
-# 🌟 Développeur Web Full-Stack 🌟
+# William Cotelle — Créateur d’expériences numériques
 
-👋 Bonjour, je suis @WilliamCotelle, développeur web français 🇫🇷  
-🌱 Actuellement, je me spécialise en développement web avec React et TypeScript, tout en approfondissant mes compétences en JavaScript et Node.js.  
-🙋🏽‍♂️ Je suis à la recherche d'opportunités pour contribuer à des projets de développement web créatifs et stimulants.  
-📫 Vous pouvez me contacter à william.cotelle@outlook.fr  
+👤 Développeur web & mobile  
+🎓 Diplômé DWWM · En alternance CDA chez Naiart jusqu’en septembre 2026  
+📍 France  
+📫 william.cotelle@outlook.fr  
 
-## 📋 Expérience Professionnelle
+---
 
-### Projet de fin de formation - O’Clock (Août 2024 - Décembre 2024)
-🎯 **Description du Projet:**
-- Création d'une application web en équipe, de la conception au déploiement d'un MVP en utilisant la méthodologie agile.
-- **Technologies utilisées:** HTML5, CSS3, JavaScript, React, TypeScript, Node.js, GitHub.
-- **Compétences développées:** Travail d'équipe, gestion de projet, et développement agile.
+## À propos
 
-### Vendeur Conseil - Conforama (2021 - 2023)
-- **Responsabilités:**
-  - Proposer des solutions globales aux clients de l'enseigne.
-  - Gestion des stocks, mise en place des produits et formation des nouveaux employés.
-  - Développement de compétences en vente et communication.
+Je conçois des applications modernes, robustes et élégantes.  
+Mon approche est orientée produit, avec une exigence technique et une attention particulière à l’expérience utilisateur.  
 
-## 🔧 Compétences
+---
 
-### Front-End:
-- HTML5 / CSS3 / JavaScript / React / Vue.js
+## Compétences
 
-### Back-End:
-- Node.js / PostgreSQL / Sequelize / Express.js
+**Frontend**  
+- React · React Native · TypeScript · HTML5 · CSS3 · Tailwind CSS · Vue.js  
+- Expo · SCSS Modules · Framer Motion · Chart.js  
 
-### Outils de Gestion de Projet:
-- Git / GitHub / Notion / Figma / 
+**Backend & BaaS**  
+- Node.js · Express.js · Supabase · PostgreSQL · Sequelize · JWT · REST API  
 
-### Langues:
-- Anglais (niveau B1)
+**Outils & Méthodes**  
+- Git / GitHub · Notion · Figma · Docker (initiation)  
+- Agile · TDD · CI/CD (bases)  
 
-## 🎓 Formation
+**Mobile & API**  
+- Expo EAS · Stripe API · OAuth (Google, Facebook, LinkedIn) · Push Notifications  
 
-### Développeur Web et Web Mobile - École O'Clock (Juillet 2024 - Janvier 2026)
-- **Diplôme:** Titre professionnel Niveau V (Bac +2)
-- **Formation intensive:** 798h théoriques et 280h de stage pratique en entreprise.
-- **Projet professionnel:** Réalisation d'un projet en équipe (140h).
+**Langues**  
+- Français (natif)  
+- Anglais (B1)
 
-### Vendeur Conseil en Magasin - Groupe Alternance Agen (2021 - 2022)
-- **Diplôme:** Titre professionnel Vendeur Conseil en Magasin (Niveau Bac pro vente)
+---
 
-### Lycée La Salle Deforest De Leward (2015 - 2017)
-- **Diplôme:** Niveau Bac pro
+## Parcours
 
-## 🌟 Centres d'Intérêt
-- ✈️ Voyage pour découvrir de nouvelles cultures
-- 🎮 Jeux vidéo pour stimuler la créativité
-- ⛷️ Ski pour défier les montagnes
-- 🌊 Sports nautiques pour ressentir l'excitation de l'aventure aquatique
+**Développeur Web & Mobile**  
+_Alternance chez Naiart_ · **2025 - 2026**  
+Développement d’interfaces sur mesure et intégration d’API pour des solutions métier.
 
-## 🔗 Liens
-- **LinkedIn:** [William Cotelle](https://www.linkedin.com/in/william-cotelle-528897251/)
-- **GitHub:** [WilliamCotelle](https://github.com/WilliamCotelle)
+**Titre Pro Développeur Web et Web Mobile**  
+_École O’Clock_ · **2024**  
+Projet d'équipe de 140h : développement fullstack d’un MVP en méthode agile.
+
+**Vendeur Conseil**  
+_Conforama_ · **2021 - 2023**  
+Relation client, conseil, autonomie, sens des responsabilités.
+
+---
+
+## Centres d’intérêt
+
+Exploration · Design · Jeux vidéo · Sports de glisse · Tech & Productivité
+
+---
+
+## Liens
+
+🔗 [LinkedIn](https://www.linkedin.com/in/william-cotelle-528897251/)  
+🔗 [GitHub](https://github.com/WilliamCotelle)
 
