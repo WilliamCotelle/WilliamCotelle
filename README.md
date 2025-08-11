@@ -54,7 +54,7 @@ Relation client, conseil, autonomie, sens des responsabilités.
 
 ## Centres d’intérêt
 
-Exploration · Design · Jeux vidéo · Sports de glisse · Tech & Productivités
+Exploration · Design · Jeux vidéo · Sports de glisse · Tech & Productivité
 
 ---
 
