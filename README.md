@@ -36,7 +36,7 @@ Mon approche est orientée produit, avec une exigence technique et une attention
 
 ---
 
-## Parcour
+## Parcours
 
 **Développeur Web & Mobile**  
 _Alternance chez Naiart_ · **2025 - 2026**  
