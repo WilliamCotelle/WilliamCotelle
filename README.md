@@ -1,4 +1,4 @@
-# William Cotelle — Créateur d’expériences numérique
+# William Cotelle — Créateur d’expériences numériques
 
 👤 Concepteur développeur web full stack JS                            
 🎓 Diplômé DWWM · En alternance CDA chez Naiart jusqu’en septembre 2026  
