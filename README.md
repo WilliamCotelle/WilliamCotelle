@@ -7,7 +7,7 @@
 
 ---
 
-## À propos
+## À propo
 
 Je conçois des applications modernes, robustes et élégantes.  
 Mon approche est orientée produit, avec une exigence technique et une attention particulière à l’expérience utilisateur.  
