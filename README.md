@@ -2,7 +2,7 @@
 
 👤 Concepteur développeur web full stack JS                            
 🎓 Diplômé DWWM · En alternance CDA chez Naiart jusqu’en septembre 2026  
-📍 France - Lot et Garonne
+📍 France - Lot et Garonne                                                                                                    
 📫 william.cotelle@outlook.fr  
 
 ---
