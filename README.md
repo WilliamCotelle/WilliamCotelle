@@ -21,7 +21,7 @@ Mon approche est orientée produit, avec une exigence technique et une attention
 - Expo · SCSS Modules · Framer Motion · Chart.js  
 
 **Backend & BaaS**  
-- Node.js · Express.js · Supabase · PostgreSQL · Sequelize · JWT · REST API · PRISMA
+- Node.js · Express.js · Supabase · PostgreSQL · Sequelize · JWT · REST API · Prisma
 
 **Outils & Méthodes**  
 - Git / GitHub · Notion · Figma · Docker (initiation)  
