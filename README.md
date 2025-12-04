@@ -1,7 +1,7 @@
 # William Cotelle — Créateur d’expériences numériques
 
 👤 Concepteur développeur web full stack JS                            
-🎓 Diplômé DWWM · En alternance CDA chez Naiart jusqu’en septembre 2026  
+🎓 Diplômé DWWM · En alternance CDA chez LSDT jusqu’en septembre 2026  
 📍 France - Lot et Garonne                                                                                                    
 📫 william.cotelle@outlook.fr  
 
