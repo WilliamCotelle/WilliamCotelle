@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:141D2B&height=140&section=header&text=William%20Cotelle&fontColor=FFFFFF&fontSize=46&fontAlignY=50&desc=Concepteur%20developpeur%20full-stack%20JS&descAlignY=78&descSize=16&descAlignX=50" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Next.js+%C2%B7+React+Native+%C2%B7+TypeScript;Freelance+%40+Nexyra;Du+produit%2C+de+l'exigence+technique" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Next.js+%C2%B7+React+Native+%C2%B7+TypeScript;Du+produit%2C+de+l'exigence+technique;Des+apps+robustes+et+soign%C3%A9es" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Statut](https://img.shields.io/badge/Freelance-disponible-58A6FF?style=for-the-badge&labelColor=141D2B)
+![Role](https://img.shields.io/badge/Développeur-full--stack_JS-58A6FF?style=for-the-badge&labelColor=141D2B)
 ![Localisation](https://img.shields.io/badge/France-Lot--et--Garonne-C9D1D9?style=for-the-badge&labelColor=141D2B)
 ![Alternance](https://img.shields.io/badge/Alternance_CDA-LSDT_jusqu'en_09%2F2026-9FEF00?style=for-the-badge&labelColor=141D2B)
 
@@ -26,10 +26,9 @@
 
 Je conçois des applications web et mobiles modernes, du produit jusqu'au déploiement. Mon approche reste orientée produit, avec une exigence technique et une attention forte portée à l'expérience utilisateur.
 
-- Freelance sous la marque **Nexyra** (micro-entreprise)
-- Client principal : **CPTS Ouest Gironde**, structure de coordination en santé
 - Développeur full-stack sur **LSDT**, plateforme de coaching sportif
-- Je développe **Nuvel**, un SaaS de collecte de feedback pour les CPTS françaises
+- À l'aise sur tout le cycle produit : mobile, web, backend, base de données
+- Projets perso autour de la santé numérique et des finances personnelles
 - En montée en compétences continue : cloud, IA, architecture
 
 ---
@@ -122,8 +121,7 @@ Je porte l'ensemble du périmètre technique du produit, du mobile à la base de
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| **CPTS Ouest Gironde** | Plateforme de santé territoriale : espace pro, chatbot, modules métier, formulaires patients | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Nuvel** | SaaS de collecte de feedback et reporting pour les CPTS *(en cours)* | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) |
+| **Plateforme santé** | Plateforme web territoriale : espace pro, chatbot, modules métier, formulaires patients | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | **La Pince** | Application de finances personnelles | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Koa](https://img.shields.io/badge/-Koa-33333D?style=flat-square&logo=koa&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 
 ---
@@ -132,7 +130,7 @@ Je porte l'ensemble du périmètre technique du produit, du mobile à la base de
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WilliamCotelle&show_icons=true&hide_border=true&bg_color=141D2B&title_color=58A6FF&icon_color=9FEF00&text_color=C9D1D9" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WilliamCotelle&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&bg_color=141D2B&title_color=58A6FF&icon_color=9FEF00&text_color=C9D1D9" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCotelle&layout=compact&hide_border=true&bg_color=141D2B&title_color=58A6FF&text_color=C9D1D9" alt="top langs" />
 
 <br/>
@@ -148,8 +146,8 @@ Je porte l'ensemble du périmètre technique du produit, du mobile à la base de
 **Développeur web & mobile** · Alternance CDA @ LSDT · `2025 - 2026`
 > Développement full-stack d'une plateforme de coaching : mobile, site, backoffice, backend, base de données. Paiements Stripe Connect, OAuth, abonnements.
 
-**Freelance full-stack** · Nexyra · `2024 - présent`
-> Conception et maintenance de plateformes web pour des structures de santé. Développement, design, contenu éditorial.
+**Projets personnels** · développement web & mobile · `2024 - présent`
+> Conception de plateformes web complètes : architecture, développement, design. Montée en compétences en autonomie.
 
 **Titre Pro Développeur Web et Web Mobile (DWWM)** · École O'Clock · `2024`
 > Projet d'équipe de 140h : développement full-stack d'un MVP en méthode agile.
