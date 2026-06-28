@@ -10,7 +10,7 @@
 
 ![Role](https://img.shields.io/badge/Développeur-full--stack_JS-58A6FF?style=for-the-badge&labelColor=141D2B)
 ![Localisation](https://img.shields.io/badge/France-Lot--et--Garonne-C9D1D9?style=for-the-badge&labelColor=141D2B)
-![Alternance](https://img.shields.io/badge/Alternance_CDA-LSDT_jusqu'en_09%2F2026-9FEF00?style=for-the-badge&labelColor=141D2B)
+![LSDT](https://img.shields.io/badge/Développeur_@_LSDT-depuis_2025-9FEF00?style=for-the-badge&labelColor=141D2B)
 
 <br/>
 
@@ -143,7 +143,7 @@ Je porte l'ensemble du périmètre technique du produit, du mobile à la base de
 
 ## Parcours
 
-**Développeur web & mobile** · Alternance CDA @ LSDT · `2025 - 2026`
+**Développeur web & mobile** · LSDT · `2025 - présent`
 > Développement full-stack d'une plateforme de coaching : mobile, site, backoffice, backend, base de données. Paiements Stripe Connect, OAuth, abonnements.
 
 **Projets personnels** · développement web & mobile · `2024 - présent`
